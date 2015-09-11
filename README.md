@@ -18,6 +18,5 @@ Viewing and using the app can be done online now through `http://derpcat.site44.
 
 ## License
 
-MIT License, copyright 2015. 
-Copyright, StumpTownDerpCAT LLC 2015. 
+Copyright, StumpTown DerpCAT LLC 2015. 
 
