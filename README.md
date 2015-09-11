@@ -1,3 +1,5 @@
+![alt tag](https://github.com/imanmafi/findAndReplace/blob/master/img/background.jpg)
+
 # Find and Replace in JavaScript
 
 A JavaScript app that allows a user to input any text, choose a word to replace within that text and to return the modified text to the user. 
@@ -10,12 +12,12 @@ Testing the Javascript methods and specs can be done through Mocha.
 
 ## JavaScript App Usage
 
-Viewing the app can be done live and in real time through `http://derpcat.site44.com` or
+Viewing and using the app can be done online now through `http://derpcat.site44.com` or
 
 `run index.html` in the project folder.
 
 ## License
 
 MIT License, copyright 2015. 
+Copyright, StumpTownDerpCAT LLC 2015. 
 
-![alt tag](https://github.com/imanmafi/findAndReplace/blob/master/img/background.jpg)
