@@ -17,3 +17,5 @@ Viewing the app can be done live and in real time through `http://derpcat.site44
 ## License
 
 MIT License, copyright 2015. 
+
+![alt tag](https://github.com/imanmafi/findAndReplace/blob/master/img/background.jpg)
